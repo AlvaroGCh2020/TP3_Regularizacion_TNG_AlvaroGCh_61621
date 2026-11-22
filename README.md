@@ -35,7 +35,6 @@ La carpeta de entrega incluye el código experimental para consulta y los regist
 ## Archivos de la entrega
 
 - [Notebook](TP3_Regularizacion_TNG.ipynb) con metodología, análisis y salidas.
-- [Consigna](referencia_profesor/CONSIGNA_TP3.png) de la actividad.
 - [Registros y figuras](resultados/) con las métricas del piloto, Optuna, confirmación, test y diagnósticos.
 - [Código experimental](codigo/) con las implementaciones usadas en las corridas, para consultar el procedimiento.
 - [Dependencias](requirements.txt) para reconstruir las salidas del notebook.
