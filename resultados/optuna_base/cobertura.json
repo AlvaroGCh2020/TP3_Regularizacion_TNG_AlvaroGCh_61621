@@ -1,0 +1,308 @@
+[
+  {
+    "family": "referencia",
+    "optimizer": "Adam",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 1,
+    "observed": {
+      "lr": [
+        0.00010894353994133938,
+        0.003
+      ]
+    }
+  },
+  {
+    "family": "referencia",
+    "optimizer": "RMSprop",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 0,
+    "observed": {
+      "lr": [
+        0.00034998196829550207,
+        0.0008103667946754767
+      ]
+    }
+  },
+  {
+    "family": "referencia",
+    "optimizer": "SGD",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 0,
+    "observed": {
+      "lr": [
+        0.003083234744540041,
+        0.04832125864670148
+      ]
+    }
+  },
+  {
+    "family": "l1",
+    "optimizer": "Adam",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 1,
+    "observed": {
+      "lr": [
+        0.00023537862528242063,
+        0.003
+      ],
+      "l1": [
+        2.354347860690329e-07,
+        1e-05
+      ]
+    }
+  },
+  {
+    "family": "l1",
+    "optimizer": "RMSprop",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 0,
+    "observed": {
+      "lr": [
+        0.0001355359753253486,
+        0.002627181078108266
+      ],
+      "l1": [
+        1.8515059002052136e-06,
+        4.339031876975456e-05
+      ]
+    }
+  },
+  {
+    "family": "l1",
+    "optimizer": "SGD",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 0,
+    "observed": {
+      "lr": [
+        0.003971240992568728,
+        0.07751239251977782
+      ],
+      "l1": [
+        6.279732923405051e-07,
+        2.801354354908776e-05
+      ]
+    }
+  },
+  {
+    "family": "l2",
+    "optimizer": "Adam",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 1,
+    "observed": {
+      "lr": [
+        0.00016854052643152067,
+        0.003
+      ],
+      "l2": [
+        5.979371325668462e-06,
+        0.001734892718018126
+      ]
+    }
+  },
+  {
+    "family": "l2",
+    "optimizer": "RMSprop",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 0,
+    "observed": {
+      "lr": [
+        0.00015410468561957634,
+        0.004039882445756194
+      ],
+      "l2": [
+        4.344654657134705e-06,
+        0.0012851596078705706
+      ]
+    }
+  },
+  {
+    "family": "l2",
+    "optimizer": "SGD",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 0,
+    "observed": {
+      "lr": [
+        0.005563884997208789,
+        0.021902974033609076
+      ],
+      "l2": [
+        1.0264846102246775e-06,
+        0.0005936248250154717
+      ]
+    }
+  },
+  {
+    "family": "l1_l2",
+    "optimizer": "Adam",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 1,
+    "observed": {
+      "lr": [
+        0.0001353597473686478,
+        0.005403380979186213
+      ],
+      "l1": [
+        1.2310626467047287e-07,
+        3.819308495322022e-05
+      ],
+      "l2": [
+        1.412347929274245e-06,
+        0.0006371458716181611
+      ]
+    }
+  },
+  {
+    "family": "l1_l2",
+    "optimizer": "RMSprop",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 0,
+    "observed": {
+      "lr": [
+        0.00039615740475906335,
+        0.004319784565785564
+      ],
+      "l1": [
+        7.768548999624465e-07,
+        4.1642648618204514e-05
+      ],
+      "l2": [
+        1.1180761491123878e-06,
+        0.001352367165790404
+      ]
+    }
+  },
+  {
+    "family": "l1_l2",
+    "optimizer": "SGD",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 0,
+    "observed": {
+      "lr": [
+        0.010490492264389086,
+        0.03626679760152723
+      ],
+      "l1": [
+        2.092686644204748e-06,
+        7.79786162944376e-05
+      ],
+      "l2": [
+        3.6602742796894042e-06,
+        0.00023377879138613666
+      ]
+    }
+  },
+  {
+    "family": "dropout",
+    "optimizer": "Adam",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 1,
+    "observed": {
+      "lr": [
+        0.003,
+        0.01495531049941569
+      ],
+      "dropout": [
+        0.23270589527160732,
+        0.49470019199051424
+      ]
+    }
+  },
+  {
+    "family": "dropout",
+    "optimizer": "RMSprop",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 0,
+    "observed": {
+      "lr": [
+        0.0007634722500221813,
+        0.0074423339158787545
+      ],
+      "dropout": [
+        0.3467039105028894,
+        0.49118533039664836
+      ]
+    }
+  },
+  {
+    "family": "dropout",
+    "optimizer": "SGD",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 0,
+    "observed": {
+      "lr": [
+        0.005181944000618258,
+        0.04087035062129127
+      ],
+      "dropout": [
+        0.24896841402083025,
+        0.32748834143080696
+      ]
+    }
+  },
+  {
+    "family": "batchnorm",
+    "optimizer": "Adam",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 1,
+    "observed": {
+      "lr": [
+        0.0022458349888522643,
+        0.014992271635075754
+      ],
+      "bn_momentum": [
+        0.016883242163470962,
+        0.12080919319994037
+      ]
+    }
+  },
+  {
+    "family": "batchnorm",
+    "optimizer": "RMSprop",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 0,
+    "observed": {
+      "lr": [
+        0.0011424012364804183,
+        0.0062126890718937665
+      ],
+      "bn_momentum": [
+        0.08143206793725506,
+        0.17867167483273522
+      ]
+    }
+  },
+  {
+    "family": "batchnorm",
+    "optimizer": "SGD",
+    "attempts": 4,
+    "complete": 4,
+    "enqueued": 0,
+    "observed": {
+      "lr": [
+        0.0037172817118751363,
+        0.08308350502140745
+      ],
+      "bn_momentum": [
+        0.011586181118747473,
+        0.10044487560820187
+      ]
+    }
+  }
+]
